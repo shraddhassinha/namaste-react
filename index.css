@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .nav-items {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid black;
+  .logo {
+    width: 100px;
+  }
+  .nav-links {
+    padding-right: 50px;
+    ul {
+      display: flex;
+      > li {
+        padding: 10px;
+        list-style-type: none;
+      }
+    }
+  }
+}
+.res-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  .res-card {
+    width: 200px;
+    padding: 5px;
+    margin: 5px;
+
+    .res-image {
+      width: 100%;
+    }
+  }
+  .res-card:hover {
+    border: 1px solid black;
+    cursor: pointer;
+  }
+}
+
+.shimmer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  .shimmer-card {
+    margin: 5px;
+    width: 200px;
+    height: 400px;
+    background-color: #f0f0f0;
+  }
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.top-restaurant-btn {
+  display: flex;
+  align-self: center;
+  margin: 10px;
+}
+.restaurant-container {
+  display: flex;
+  justify-content: center;
+
+  .restaurant-menu {
+    width: 50%;
+    justify-content: center;
+  }
+
+  .menu-item {
+    border: 1px solid goldenrod;
+    padding: 5px;
+  }
+
+  .menu-category {
+    color: brown;
+  }
+} */
